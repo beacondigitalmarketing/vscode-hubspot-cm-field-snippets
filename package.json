@@ -3,8 +3,13 @@
     "displayName": "Hubspot Custom Module Fields",
     "description": "Snippet Library for hubspot custom modules",
     "version": "0.0.1",
+    "publisher": "DennisEdson",
     "engines": {
         "vscode": "^1.31.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/beacondigitalmarketing/vscode-hubspot-cm-field-snippets"
     },
     "categories": [
         "Snippets"
